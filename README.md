@@ -34,7 +34,7 @@ The Annotation Tool is a desktop application built using the Tkinter library in 
 3. Run the application:
 
     ```bash
-    python main.py
+    python ui.py
     ```
 
 ## Usage
@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any inquiries or issues, please contact [your-email@example.com].
+For any inquiries or issues, please contact [mahedi.hrasel@gmail.com].
 
 
